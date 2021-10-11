@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3062804659
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c918cf7cac2dfb2176065293aca9eca4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/newbundle/iStock-1289215271.jpg
+- Assets/BundledAssets/newbundle/New Material.mat
+Dependencies: []

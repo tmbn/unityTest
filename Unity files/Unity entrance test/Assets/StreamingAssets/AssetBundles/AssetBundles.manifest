@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 112809970
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: newbundlea
+      Dependencies:
+        Dependency_0: modulesmaterials
+    Info_1:
+      Name: newbundleb
+      Dependencies:
+        Dependency_0: modulesmaterials
+    Info_2:
+      Name: modulesmaterials
+      Dependencies: {}
