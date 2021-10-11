@@ -148,3 +148,536 @@ Received Import Request.
 Start importing Assets/Scenes/1.4.unity using Guid(d5311a224f98945228a94cb3695800ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16437f73576e418896c7d00b9f47053b') in 0.000910 seconds
   Import took 0.003186 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004510 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 80.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.486 seconds
+Platform modules already initialized, skipping
+Shader 'HDRP/TerrainLit': dependency 'BaseMapGenShader' shader 'Hidden/HDRP/TerrainLit_BasemapGen' not found
+Refreshing native plugins compatible for Editor in 2.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3974 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 262.7 MB.
+System memory in use after: 254.1 MB.
+
+Unloading 143 unused Assets to reduce memory usage. Loaded Objects now: 4307.
+Total: 21.902876 ms (FindLiveObjects: 0.816200 ms CreateObjectMapping: 0.401459 ms MarkObjects: 10.574748 ms  DeleteObjects: 10.107326 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 230.597063 seconds.
+  path: Assets/iStock-1289215271.jpg
+  artifactKey: Guid(5e4cba536fe604de599d87cc3ddab8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/iStock-1289215271.jpg using Guid(5e4cba536fe604de599d87cc3ddab8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6113f8b8eec3480eb457d54723d93e84') in 0.064079 seconds
+  Import took 0.070801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.615864 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '473e20f293086e289efead0fd7d86441') in 0.870249 seconds
+  Import took 0.875062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.138887 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de3e54b9758b54c25563b03691ab40cd') in 0.004795 seconds
+  Import took 0.010355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001275 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de3e54b9758b54c25563b03691ab40cd') in 0.004703 seconds
+  Import took 0.010402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 545.176516 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7650fa3f20d027fe71413605273d45df') in 0.005678 seconds
+  Import took 0.011694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.621759 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '283a23ba6a291c05ed522e54e48f7aeb') in 0.005941 seconds
+  Import took 0.014256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051702 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '283a23ba6a291c05ed522e54e48f7aeb') in 0.006083 seconds
+  Import took 0.014520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.667427 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29364c30c6fb25d992dbba89f02a7d97') in 0.007112 seconds
+  Import took 0.015913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043019 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29364c30c6fb25d992dbba89f02a7d97') in 0.004660 seconds
+  Import took 0.011239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.015275 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ab021fd6ccf8822af0de592e470d61c') in 0.004702 seconds
+  Import took 0.011693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.662286 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b75675e00ae687dd90f1fa159c816534') in 0.006298 seconds
+  Import took 0.011932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.991262 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c64e6b74a14c093feef2691425f20f96') in 0.007682 seconds
+  Import took 0.014108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.142024 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7872c2b7a85f8bb2e282eadac7af8e24') in 0.006384 seconds
+  Import took 0.015670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 310.039557 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84ac05044c56e839695f40aee579b450') in 0.008519 seconds
+  Import took 0.015771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033904 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84ac05044c56e839695f40aee579b450') in 0.005176 seconds
+  Import took 0.013081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.610516 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb876245080b73312afb002fb3a0b5b') in 0.006084 seconds
+  Import took 0.014586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.171937 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7de39841937f6232fda77d511fa1b93') in 0.005791 seconds
+  Import took 0.013319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044289 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7de39841937f6232fda77d511fa1b93') in 0.006509 seconds
+  Import took 0.012782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.635804 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da8fb255220226aa9365aa4dddbb4da') in 0.005565 seconds
+  Import took 0.013212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.162343 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c3a3cf07502a3db882a6683e8a49ae') in 0.005249 seconds
+  Import took 0.012825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.614500 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68f40cae40c697539acf991dd0289eb0') in 0.005289 seconds
+  Import took 0.012786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.349724 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3a9df070aa16cce2a284aff2575d734') in 0.007332 seconds
+  Import took 0.015632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.212090 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ac235c1fc287cf5e0569ec31d120b79') in 0.006824 seconds
+  Import took 0.014550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053064 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ac235c1fc287cf5e0569ec31d120b79') in 0.006229 seconds
+  Import took 0.013346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.634742 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de34a9e4c4b45a94134d2461122e7b97') in 0.005496 seconds
+  Import took 0.012351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.837725 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4428a1645788a8b29cfeefe62f773df') in 0.005523 seconds
+  Import took 0.014400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.564565 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3abe9835141254661f507332b1207b3') in 0.007273 seconds
+  Import took 0.014855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049748 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3abe9835141254661f507332b1207b3') in 0.006657 seconds
+  Import took 0.014002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.173622 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd721d48a3ed995d8f791e2e78ce41e01') in 0.005867 seconds
+  Import took 0.014017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.294492 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef6ea3629f34e4beec7a646547726caf') in 0.008109 seconds
+  Import took 0.015741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.300707 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0bf1a4545e250c7a44c7719a20f068d') in 0.005307 seconds
+  Import took 0.012072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.918210 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e7e206cdc2fc0c0313cbdb7ac39256f') in 0.005458 seconds
+  Import took 0.013943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.301651 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85d72e150e10f4a7aedb5e30068d6ef') in 0.007517 seconds
+  Import took 0.014477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050491 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85d72e150e10f4a7aedb5e30068d6ef') in 0.006225 seconds
+  Import took 0.012830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.082201 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '545f0b1a53534848e106a7fa0c9076c8') in 0.005589 seconds
+  Import took 0.012761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.416503 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13b053d65c3515603f7c969b41d490f9') in 0.006221 seconds
+  Import took 0.014070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049386 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13b053d65c3515603f7c969b41d490f9') in 0.005442 seconds
+  Import took 0.011997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.981316 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07132146db0af327d7b212388df54ffd') in 0.006053 seconds
+  Import took 0.012840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.184860 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d2438c73020e9fee9f4dc25ff1da96e') in 0.005174 seconds
+  Import took 0.011767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.810215 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60235d165124bbeb4bf0c397d3304f8b') in 0.005748 seconds
+  Import took 0.012125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.460053 seconds.
+  path: Packages/com.unity.visualeffectgraph/Textures/DefaultParticle.tga
+  artifactKey: Guid(276d9e395ae18fe40a9b4988549f2349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Textures/DefaultParticle.tga using Guid(276d9e395ae18fe40a9b4988549f2349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05b253dbadbd986691063f43fa2eaddd') in 1.013012 seconds
+  Import took 1.018695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Packages/com.unity.visualeffectgraph/Textures/SignedDistanceField.asset
+  artifactKey: Guid(5c2949c31aafddd4e8011ffdebb8fdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Textures/SignedDistanceField.asset using Guid(5c2949c31aafddd4e8011ffdebb8fdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96c1207e327587c9c95d89fe70ab9ef2') in 0.708059 seconds
+  Import took 0.713658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Packages/com.unity.visualeffectgraph/Textures/Sphere.tga
+  artifactKey: Guid(d01d8874889eebc4ab0cde7f2b3309de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Textures/Sphere.tga using Guid(d01d8874889eebc4ab0cde7f2b3309de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e6b092dd832a9d53604f940226abade') in 0.009329 seconds
+  Import took 0.015412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Packages/com.unity.visualeffectgraph/Textures/Sparkle.tga
+  artifactKey: Guid(49cb5aa34272b034d8b754c65d9cdbfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Textures/Sparkle.tga using Guid(49cb5aa34272b034d8b754c65d9cdbfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '942ef9539dec795752ce48b849f1a130') in 0.009393 seconds
+  Import took 0.016321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Packages/com.unity.visualeffectgraph/Textures/vectorfield.asset
+  artifactKey: Guid(08937e3134903c5488be506a2dac71e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Textures/vectorfield.asset using Guid(08937e3134903c5488be506a2dac71e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a89866ea896672ad52e2369878b1e1') in 0.028936 seconds
+  Import took 0.037641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Packages/com.unity.visualeffectgraph/Textures/DefaultParticle.tga
+  artifactKey: Guid(276d9e395ae18fe40a9b4988549f2349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Textures/DefaultParticle.tga using Guid(276d9e395ae18fe40a9b4988549f2349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05b253dbadbd986691063f43fa2eaddd') in 0.010110 seconds
+  Import took 0.015347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Packages/com.unity.visualeffectgraph/Textures/Noise.tga
+  artifactKey: Guid(1d8481de16af723418a688958c41224b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Textures/Noise.tga using Guid(1d8481de16af723418a688958c41224b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f219d3c7199f3c39f7204560d2e40029') in 0.011966 seconds
+  Import took 0.017636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Packages/com.unity.visualeffectgraph/Textures/SimpleSmoke.tga
+  artifactKey: Guid(de0fae515169ff246a20d58a8a440ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Textures/SimpleSmoke.tga using Guid(de0fae515169ff246a20d58a8a440ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abc424f3fe22e32f6ebeea3b38a036fc') in 0.009151 seconds
+  Import took 0.016271 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004075 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.558 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3974 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 279.1 MB.
+System memory in use after: 270.6 MB.
+
+Unloading 143 unused Assets to reduce memory usage. Loaded Objects now: 4323.
+Total: 9.969824 ms (FindLiveObjects: 0.347510 ms CreateObjectMapping: 0.155752 ms MarkObjects: 4.388421 ms  DeleteObjects: 5.077541 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.034595 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d5e7df31bea5a688d631a71c436fcfa') in 0.017944 seconds
+  Import took 0.023099 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 9.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 141 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 202.6 MB.
+System memory in use after: 194.1 MB.
+
+Unloading 141 unused Assets to reduce memory usage. Loaded Objects now: 4323.
+Total: 11.754073 ms (FindLiveObjects: 0.301123 ms CreateObjectMapping: 0.167503 ms MarkObjects: 5.060649 ms  DeleteObjects: 6.223962 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 1 -> 0
+========================================================================
+Received Import Request.
+  Time since last request: 165.892754 seconds.
+  path: Assets/iStock-1289215271.jpg
+  artifactKey: Guid(5e4cba536fe604de599d87cc3ddab8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/iStock-1289215271.jpg using Guid(5e4cba536fe604de599d87cc3ddab8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d8d5d25988e559db284eb6fbdb1528') in 0.039121 seconds
+  Import took 0.047197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051621 seconds.
+  path: Assets/iStock-1289215271.jpg
+  artifactKey: Guid(5e4cba536fe604de599d87cc3ddab8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/iStock-1289215271.jpg using Guid(5e4cba536fe604de599d87cc3ddab8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d8d5d25988e559db284eb6fbdb1528') in 0.008621 seconds
+  Import took 0.015354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.479962 seconds.
+  path: Assets/New HDRenderPipelineAsset.asset
+  artifactKey: Guid(dda8d557293044bf59401ccda73d8e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New HDRenderPipelineAsset.asset using Guid(dda8d557293044bf59401ccda73d8e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8116d9efc1266791e1ad87ed7fd4510f') in 0.170033 seconds
+  Import took 0.184756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.671832 seconds.
+  path: Assets/New Diffusion Profile.asset
+  artifactKey: Guid(1f18f9e1d5baa49e2a40d55e836277ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Diffusion Profile.asset using Guid(1f18f9e1d5baa49e2a40d55e836277ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7103e083f10c2307c217bc0b350ee4c') in 0.008256 seconds
+  Import took 0.015849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013159 seconds.
+  path: Assets/New Diffusion Profile.asset
+  artifactKey: Guid(1f18f9e1d5baa49e2a40d55e836277ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Diffusion Profile.asset using Guid(1f18f9e1d5baa49e2a40d55e836277ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7103e083f10c2307c217bc0b350ee4c') in 0.005906 seconds
+  Import took 0.011426 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014300 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.952 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': dependency 'BillboardShader' shader 'Universal Render Pipeline/Nature/SpeedTree7 Billboard' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'AddPassShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapGenShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Basemap Gen)' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Complex Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Unlit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/StencilDeferred': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Simple Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4430 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 311.4 MB.
+System memory in use after: 298.8 MB.
+
+Unloading 193 unused Assets to reduce memory usage. Loaded Objects now: 4733.
+Total: 12.683054 ms (FindLiveObjects: 0.349995 ms CreateObjectMapping: 0.178423 ms MarkObjects: 4.726070 ms  DeleteObjects: 7.427784 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 1 -> 0
+========================================================================
+Received Import Request.
+  Time since last request: 100.412648 seconds.
+  path: Assets/1.4VFX.vfx
+  artifactKey: Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.4VFX.vfx using Guid(9b607fe7eb111457481dda907f260612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f154c83a12e4d4218186bedb503604ac') in 0.021719 seconds
+  Import took 0.029251 seconds .
+
