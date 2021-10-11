@@ -1,0 +1,59 @@
+Base path: /Applications/Unity/Hub/Editor/2018.4.36f1/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: disassembleShader
+  api=14 insize=2446 outsize=2398 ok=1
+Cmd: disassembleShader
+  api=14 insize=11354 outsize=11306 ok=1
+Cmd: disassembleShader
+  api=14 insize=2351 outsize=2303 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=5558 outsize=10531 kw=UNITY_PASS_FORWARDADD SPOT SHADOWS_DEPTH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=15 insize=10531 outsize=10531 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=5558 outsize=11414 kw=UNITY_PASS_FORWARDADD POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=15 insize=11414 outsize=11414 ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=5558 outsize=9788 kw=UNITY_PASS_FORWARDADD SPOT SHADOWS_DEPTH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=14 insize=9788 outsize=9740 ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=15596 outsize=0 kw=UNITY_PASS_DEFERRED pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=14 insize=2446 outsize=2398 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=14 insize=2907 outsize=2859 ok=1
+Cmd: disassembleShader
+  api=14 insize=2555 outsize=2507 ok=1
+Cmd: disassembleShader
+  api=14 insize=2947 outsize=2899 ok=1
+Cmd: disassembleShader
+  api=14 insize=7264 outsize=7216 ok=1
+Cmd: disassembleShader
+  api=14 insize=10459 outsize=10411 ok=1
+Cmd: disassembleShader
+  api=15 insize=2956 outsize=2956 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: disassembleShader
+  api=14 insize=2256 outsize=2208 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
