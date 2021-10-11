@@ -1,0 +1,3 @@
+/Users/adrian.armijos.kruge/Documents/GitHub/unityTest/DLL 1.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/adrian.armijos.kruge/Documents/GitHub/unityTest/DLL 1.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adrian.armijos.kruge/Documents/GitHub/unityTest/DLL 1.2/cmake-build-debug/CMakeFiles/DLL_1_2.dir
