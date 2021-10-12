@@ -151,13 +151,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 92611706}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: db8ff6dff0c4e4512b524960363178ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  texture: {fileID: 2800000, guid: e468689bde7fb49de8194afc36d221f5, type: 3}
-  useJobs: 0
+  sourceTex: {fileID: 2800000, guid: 0f0899a96ce6b45019639b2b683869e6, type: 3}
+  reds: 0
 --- !u!136 &92611708
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -242,19 +242,12 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 92611706}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 57bb3acf55ef5470588ce965332f3319, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   sourceTex: {fileID: 2800000, guid: 0f0899a96ce6b45019639b2b683869e6, type: 3}
-  sourceRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 0
-    height: 0
-  reds: 0
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0

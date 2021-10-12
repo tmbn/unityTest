@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using Unity.Jobs;
 
 public class ExampleClass : MonoBehaviour
 {
@@ -8,6 +9,7 @@ public class ExampleClass : MonoBehaviour
     private int widthTex , heightText;
     void Start()
     {
+        
         widthTex = Mathf.FloorToInt(sourceTex.width);
         heightText = Mathf.FloorToInt(sourceTex.height);
         
@@ -31,4 +33,7 @@ public class ExampleClass : MonoBehaviour
 
         return reds;
     }
+    
+    
+ 
 }
