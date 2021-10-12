@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 using Unity.Jobs;
 //I know it's not what I was asked for, but its the best I'm being able to do so far.
-public class CountWithoutJobs : MonoBehaviour
+public class CountWithJobs : MonoBehaviour
 {
     // Source texture and the rectangular area we want to extract.
     public Texture2D sourceTex;
