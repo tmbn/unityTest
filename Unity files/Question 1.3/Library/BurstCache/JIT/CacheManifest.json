@@ -1,0 +1,325 @@
+{
+  "BurstVersion": "838ad2b6-e530-4123-afbe-0023ba8e151b",
+  "Assemblies": [
+    {
+      "FullName": "Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2021-10-12T00:58:09Z"
+    },
+    {
+      "FullName": "netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51",
+      "LastWriteTime": "2021-10-11T08:15:52Z"
+    },
+    {
+      "FullName": "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "LastWriteTime": "2021-10-11T08:15:52Z"
+    },
+    {
+      "FullName": "Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2021-10-12T00:58:11Z"
+    },
+    {
+      "FullName": "Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2021-10-12T00:58:11Z"
+    },
+    {
+      "FullName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2021-10-11T08:15:50Z"
+    },
+    {
+      "FullName": "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "LastWriteTime": "2021-10-11T08:15:52Z"
+    },
+    {
+      "FullName": "Unity.Burst.Unsafe, Version=4.0.5.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2021-08-18T14:08:28Z"
+    },
+    {
+      "FullName": "System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+      "LastWriteTime": "2021-10-11T08:15:52Z"
+    }
+  ],
+  "Functions": [
+    {
+      "FullName": "Unity.Burst.Intrinsics.X86, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DoGetCSRTrampoline()",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "e84a28da2f8326ce7da914c4753877f7",
+      "LinkName": "CDCA4A5193BE5947",
+      "AssemblyDependencyIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Burst.Intrinsics.X86, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DoSetCSRTrampoline(System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "49b729e4c76c516f966a9264e83e41e7",
+      "LinkName": "801E9A000BB37B05",
+      "AssemblyDependencyIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Collections.xxHash3, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::_mono_to_burst_Hash128Long(System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Mathematics.uint4&, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "19e8a2f5c117344bd176be1562435bd9",
+      "LinkName": "652A50F98488BE6F",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        0,
+        5,
+        6
+      ]
+    },
+    {
+      "FullName": "Unity.Collections.xxHash3, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::_mono_to_burst_Hash64Long(System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.UInt64&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "de768ee1c5c6f2591e3584ac11acb140",
+      "LinkName": "C86228259FBD2D15",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        0,
+        5,
+        6
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.NativeListDisposeJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.NativeListDisposeJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "d95cc5b187c049fff005e846810d7a9e",
+      "LinkName": "352B6D5D03F8F621",
+      "AssemblyDependencyIndices": [
+        5,
+        3,
+        6,
+        1,
+        2,
+        4,
+        0,
+        7,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Collections.AllocatorManager+StackAllocator, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Try(System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Collections.AllocatorManager+Block&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "22c5c9cb6e6418aec17b359d50682b77",
+      "LinkName": "31D71C750A9E4345",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "FullName": "Unity.Collections.AllocatorManager+SlabAllocator, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Try(System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Collections.AllocatorManager+Block&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "2a487bc6ad8e170731045c73f8fc4a7d",
+      "LinkName": "8CC3C64CA4A3FEDE",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        0,
+        5,
+        6,
+        4
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.NativeQueueDisposeJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.NativeQueueDisposeJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "4dfcde3ba12e30e499d31e6317ce7dc7",
+      "LinkName": "8F02018D2DAA4F36",
+      "AssemblyDependencyIndices": [
+        5,
+        3,
+        6,
+        1,
+        2,
+        4,
+        0,
+        7,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.NativeReferenceDisposeJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.NativeReferenceDisposeJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "f634842c67ab566cdc1fbb543303425e",
+      "LinkName": "703CA6DADE3415F0",
+      "AssemblyDependencyIndices": [
+        5,
+        3,
+        6,
+        1,
+        2,
+        4,
+        0,
+        7,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.NativeStream+ConstructJobList, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.NativeStream+ConstructJobList&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "6de3e37e19b940d6b984dede8bdc0a33",
+      "LinkName": "846F65225A066FD6",
+      "AssemblyDependencyIndices": [
+        5,
+        3,
+        6,
+        1,
+        2,
+        4,
+        0,
+        7,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.NativeStream+ConstructJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.NativeStream+ConstructJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "be826d93952dae9b04fc7bced3a1af4a",
+      "LinkName": "1F3827F16D435181",
+      "AssemblyDependencyIndices": [
+        5,
+        3,
+        6,
+        1,
+        2,
+        4,
+        0,
+        7,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.LowLevel.Unsafe.UnsafeHashMapDataDisposeJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.LowLevel.Unsafe.UnsafeHashMapDataDisposeJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "40d32d7d101b1e9a8592286265d9534d",
+      "LinkName": "C0BB42F31A3089F2",
+      "AssemblyDependencyIndices": [
+        5,
+        3,
+        6,
+        1,
+        2,
+        4,
+        0,
+        7,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.LowLevel.Unsafe.UnsafeHashMapDisposeJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.LowLevel.Unsafe.UnsafeHashMapDisposeJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "aa06e97911df665b96c6429d2cfefe76",
+      "LinkName": "0AFB48C3B9CA6ECF",
+      "AssemblyDependencyIndices": [
+        5,
+        3,
+        6,
+        1,
+        2,
+        4,
+        0,
+        7,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.LowLevel.Unsafe.UnsafeDisposeJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.LowLevel.Unsafe.UnsafeDisposeJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "2032eea406fbb7a743bd0c6f66171921",
+      "LinkName": "5AAE3265C3BCB248",
+      "AssemblyDependencyIndices": [
+        5,
+        3,
+        6,
+        1,
+        2,
+        4,
+        0,
+        7,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.LowLevel.Unsafe.UnsafeStream+DisposeJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.LowLevel.Unsafe.UnsafeStream+DisposeJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "a9bbe001478e2fd9b83102ff2384eae9",
+      "LinkName": "A8134E26EAC44A70",
+      "AssemblyDependencyIndices": [
+        5,
+        3,
+        6,
+        1,
+        2,
+        4,
+        0,
+        7,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.LowLevel.Unsafe.UnsafeStream+ConstructJobList, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.LowLevel.Unsafe.UnsafeStream+ConstructJobList&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "fe85c3a657af841226a13977b4c86d6d",
+      "LinkName": "18F4EDFD51FD6159",
+      "AssemblyDependencyIndices": [
+        5,
+        3,
+        6,
+        1,
+        2,
+        4,
+        0,
+        7,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.LowLevel.Unsafe.UnsafeStream+ConstructJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.LowLevel.Unsafe.UnsafeStream+ConstructJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "51cb6d4766d6adf2749a001a95a7271d",
+      "LinkName": "EC65C6FB1FDE45E6",
+      "AssemblyDependencyIndices": [
+        5,
+        3,
+        6,
+        1,
+        2,
+        4,
+        0,
+        7,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Collections.RewindableAllocator, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Try(System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Collections.AllocatorManager+Block&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "f43f44a0d1deec57589e31f345d16f07",
+      "LinkName": "806B2D5E79A7443E",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        0,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ]
+}

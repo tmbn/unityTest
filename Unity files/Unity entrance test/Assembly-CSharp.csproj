@@ -57,7 +57,6 @@
      <Compile Include="Assets\UserReporting\Scripts\UserReportingScript.cs" />
      <Compile Include="Assets\UserReporting\Scripts\Client\UserReportEvent.cs" />
      <Compile Include="Assets\UserReporting\Scripts\UserReportingConfigureOnly.cs" />
-     <Compile Include="Assets\NativeCppLibraryIntegration.cs" />
      <Compile Include="Assets\UserReporting\Scripts\Plugin\LogDispatcher.cs" />
      <Compile Include="Assets\UserReporting\Scripts\Client\Preconditions.cs" />
      <Compile Include="Assets\Scripts\Loader.cs" />
@@ -97,6 +96,7 @@
      <Compile Include="Assets\UserReporting\Scripts\Client\UserReportAppearanceHint.cs" />
      <Compile Include="Assets\UserReporting\Scripts\Client\SerializableException.cs" />
      <Compile Include="Assets\UserReporting\Scripts\Plugin\UnityUserReporting.cs" />
+     <Compile Include="Assets\NativeCppLibraryIntegration.cs" />
      <None Include="Assets\UserReporting\Release Notes.txt" />
      <None Include="Assets\Materials + Shaders\1.1\Diffuse With Full LightProbes.shader" />
      <None Include="Assets\Materials + Shaders\1.1\Diffuse With LightProbes.shader" />

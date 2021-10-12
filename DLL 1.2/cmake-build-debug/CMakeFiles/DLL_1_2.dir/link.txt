@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libDLL_1_2.a CMakeFiles/DLL_1_2.dir/library.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libDLL_1_2.a

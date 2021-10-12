@@ -1,21 +1,30 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using System.Runtime.InteropServices;
-public class NativeCppLibraryIntegration: MonoBehaviour {
-// Import and expose native c++ functions
-    // [DllImport("NATIVECPPLIBRARY", EntryPoint = "displayNumber")]
-    // public static extern int displayNumber();
-    // [DllImport("NATIVECPPLIBRARY", EntryPoint = "getRandom")]
-    // public static extern int getRandom();
-    // [DllImport("NATIVECPPLIBRARY", EntryPoint = "displaySum")]
-    // public static extern int displaySum();
-// Start is called before the first frame update
-    [DllImport("MathLibrary", EntryPoint = "foo")]
-    public static extern int foo();
 
-    
-    void Start() {
-        // Display output of functions
-        print(foo());
-        
+public class NativeCppLibraryIntegration: MonoBehaviour {
+
+    public static TwoStrings ts;
+
+[DllImport("NativeCppLibrary", EntryPoint = "concatenate")]
+public static extern string concatenate(TwoStrings ts );
+
+void Start() {
+    ts.string1="Hello ";
+    ts.string2="World";
+    concatenate(ts);
+    print(ts.concatenated);
+
     }
+
+
+
+
 }
+public struct TwoStrings
+{
+	public string string1;
+	public string string2;
+	public string concatenated;
+};

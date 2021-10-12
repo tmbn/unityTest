@@ -1,0 +1,8 @@
+﻿  NativeCppLibrary.cpp
+     Creating library C:\Users\59399\OneDrive\Desktop\ultimo\NativeCppLibrary\x64\Release\NativeCppLibrary.lib and object C:\Users\59399\OneDrive\Desktop\ultimo\NativeCppLibrary\x64\Release\NativeCppLibrary.exp
+  Generating code
+  62 of 76 functions (81.6%) were compiled, the rest were copied from previous compilation.
+    17 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NativeCppLibrary.vcxproj -> C:\Users\59399\OneDrive\Desktop\ultimo\NativeCppLibrary\x64\Release\NativeCppLibrary.dll
