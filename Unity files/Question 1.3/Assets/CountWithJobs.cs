@@ -40,20 +40,19 @@ public class Testing : MonoBehaviour
         public float red;
         public void Execute(int index)
         {
-            float x=0,y=0;
+            int x=0 , y=0;
             int i = index + 1;
+            
             if (i==2) x = width / 2;
             else if (i==3) y = height/2;
             else if (i==4) {x = width / 2; y = height/2;}
-
-            Color[] pix = texture.GetPixels(0, height/2, width / 2, height / 2);
+            
+            //TODO ver cómo sacar texture.GetPixels
+            Color[] pix = texture.GetPixels(x, y, width / 2, height / 2);
             for (i = 0; i < pix.Length; i++)
             {
                 red += pix[i].r;
-                // print(pix[i].r);
             }
-
-            // return reds;
         }
     }
 
